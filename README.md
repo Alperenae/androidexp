@@ -8,7 +8,6 @@ Also this exploit should be run only linux oss.
 + git clone https://Alperenae/androidexp
 + cd androidexp
 + chmod +x exploitadb.py
-+ apt-get install python3
 
 # Usage
 
