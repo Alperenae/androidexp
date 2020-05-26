@@ -1,6 +1,7 @@
 # Android Debug Bridge Exploit
 
 This Exploit let them exploit which android phone or emulator running on android debug bridge.
+Also this exploit should be run only linux oss. 
 
 # Installition
 
